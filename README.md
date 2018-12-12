@@ -19,11 +19,11 @@ Your home URL is going to be the URL that you obtain by pressing this button.
 - Get and execute the code
 
 ```
-git clone <repo_name>
+git clone git@github.com:ian-flores/github_downloader.git
 ```
 
 ```
-cd <repo_name>
+cd github_downloader
 ```
 
 ```
