@@ -27,7 +27,7 @@ cd github_downloader
 ```
 
 ```
-Rscript get_courses <your_home_url>
+Rscript get_courses.R <your_home_url>
 ```
 ## Notes
 
