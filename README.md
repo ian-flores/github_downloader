@@ -8,7 +8,7 @@ There are many courses in the Master of Data Science at UBC, downloading ALL of 
 
 There are two steps to be able to run this code: 
 
-- Get the home URL
+### - Get the home URL
 
 Go to the `README.md` file in your home repository in `github.ubc.ca`. Press the raw button in the top right corner. 
 
@@ -16,7 +16,7 @@ Go to the `README.md` file in your home repository in `github.ubc.ca`. Press the
 
 Your home URL is going to be the URL that you obtain by pressing this button. 
 
-- Get and execute the code
+### - Get and execute the code
 
 ```
 git clone git@github.com:ian-flores/github_downloader.git
